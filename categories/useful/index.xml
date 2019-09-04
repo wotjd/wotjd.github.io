@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Useful on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/categories/useful/</link>
+    <description>Recent content in Useful on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 03 Jun 2019 11:40:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/categories/useful/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Useful] Quicktype.io : Paste JSON as Code</title>
+      <link>https://wotjd.github.io/2019/06/useful-quicktype.io-paste-json-as-code/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/06/useful-quicktype.io-paste-json-as-code/</guid>
+      <description>https://quicktype.io
+JSON 데이터를 입력하면 자동으로 코드를 생성해주는 사이트.
+최근에는 네트워크 통신할 때 거의 JSON 을 사용한다.
+JSON 데이터를 코드에서 다루기 위해서는 기본적으로 오고가는 데이터를 맵핑할 모델이 필요하다.
+이 모델을 직접 만들때는 필드 이름의 철자가 한자라도 다르면 오류가 발생하는데,
+파싱해야 할 필드가 많아질수록 타이핑해야 할 코드 수도 증가하여 손이 많이간다.
+이럴 때 quicktype 을 사용하면 실수가 많이 줄어들 것 같다.
+사용법  QuickType 사이트에 접속하여 우측 상단의 Generate Code 버튼을 눌러 이동한다.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UIKit on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/tags/uikit/</link>
+    <description>Recent content in UIKit on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 04 Jun 2019 15:23:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/tags/uikit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[iOS] 앱 종료하기 (How to quit app in Swift)</title>
+      <link>https://wotjd.github.io/2019/06/ios-%EC%95%B1-%EC%A2%85%EB%A3%8C%ED%95%98%EA%B8%B0-how-to-quit-app-in-swift/</link>
+      <pubDate>Tue, 04 Jun 2019 15:23:03 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/06/ios-%EC%95%B1-%EC%A2%85%EB%A3%8C%ED%95%98%EA%B8%B0-how-to-quit-app-in-swift/</guid>
+      <description>iOS 앱을 코드 상에서 종료하고 싶을 때가 있을 것이다. (위대하신 클라이언트님의 요구사항으로 인해)
+그러나 어디에도 공식적으로 제공하는 API 가 없다.
+그럼 뭔가 불안한데.. 앱을 종료하지 말라는 건가..
+결론부터 결국 아래와 같이 호출해서 홈으로 이동하게 끔 하였다. (Suspend)
+ 약간의 삽질 여기저기 찾아보니 Apple Document 의 이런 글을 찾았다.
+How do I programmatically quit my iOS application?
+굉장히 심플한 글이고, 요약하자면 아래와 같다.
+ Q. 코드 상에서 앱 종료하고 싶어요!</description>
+    </item>
+    
+  </channel>
+</rss>

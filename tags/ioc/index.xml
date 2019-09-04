@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoC on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/tags/ioc/</link>
+    <description>Recent content in IoC on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/tags/ioc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Architecture] IoC 관련 끄적 (IoC, DI, DIP, IoC Container)</title>
+      <link>https://wotjd.github.io/2019/05/architecture-ioc-%EA%B4%80%EB%A0%A8-%EB%81%84%EC%A0%81-ioc-di-dip-ioc-container/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/05/architecture-ioc-%EA%B4%80%EB%A0%A8-%EB%81%84%EC%A0%81-ioc-di-dip-ioc-container/</guid>
+      <description>&lt;p&gt;IoC 관련 스터디를 하던 도중에 최신 자료의 부재, 모호한 설명이 많고,&lt;br /&gt;
+한 게시글에 이해하기 쉽게 만들어진 자료가 부족하다고 느껴져서&lt;br /&gt;
+내가 찾아보고 이해한 내용을 되새기는 차원에서 정리했다.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

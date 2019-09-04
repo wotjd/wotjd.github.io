@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/tags/</link>
+    <description>Recent content in Tags on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 04 Sep 2019 18:15:43 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foundation</title>
+      <link>https://wotjd.github.io/tags/foundation/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Http</title>
+      <link>https://wotjd.github.io/tags/http/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Http 통신</title>
+      <link>https://wotjd.github.io/tags/http-%ED%86%B5%EC%8B%A0/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/http-%ED%86%B5%EC%8B%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://wotjd.github.io/tags/networking/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://wotjd.github.io/tags/swift/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://wotjd.github.io/tags/tips/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URLSession</title>
+      <link>https://wotjd.github.io/tags/urlsession/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/urlsession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://wotjd.github.io/tags/ios/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replace String</title>
+      <link>https://wotjd.github.io/tags/replace-string/</link>
+      <pubDate>Mon, 22 Jul 2019 12:09:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/replace-string/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>String</title>
+      <link>https://wotjd.github.io/tags/string/</link>
+      <pubDate>Mon, 22 Jul 2019 12:09:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/string/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>문자열 치환</title>
+      <link>https://wotjd.github.io/tags/%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B9%98%ED%99%98/</link>
+      <pubDate>Mon, 22 Jul 2019 12:09:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B9%98%ED%99%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>특정 문자열 체거</title>
+      <link>https://wotjd.github.io/tags/%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B2%B4%EA%B1%B0/</link>
+      <pubDate>Mon, 22 Jul 2019 12:09:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B2%B4%EA%B1%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closure</title>
+      <link>https://wotjd.github.io/tags/closure/</link>
+      <pubDate>Mon, 10 Jun 2019 16:51:09 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/closure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher Order Function</title>
+      <link>https://wotjd.github.io/tags/higher-order-function/</link>
+      <pubDate>Mon, 10 Jun 2019 16:51:09 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/higher-order-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://wotjd.github.io/tags/links/</link>
+      <pubDate>Mon, 10 Jun 2019 16:51:09 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고차함수</title>
+      <link>https://wotjd.github.io/tags/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98/</link>
+      <pubDate>Mon, 10 Jun 2019 16:51:09 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>클로저</title>
+      <link>https://wotjd.github.io/tags/%ED%81%B4%EB%A1%9C%EC%A0%80/</link>
+      <pubDate>Mon, 10 Jun 2019 16:51:09 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%ED%81%B4%EB%A1%9C%EC%A0%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://wotjd.github.io/tags/development/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://wotjd.github.io/tags/git/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://wotjd.github.io/tags/github/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usage</title>
+      <link>https://wotjd.github.io/tags/usage/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/usage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>개발</title>
+      <link>https://wotjd.github.io/tags/%EA%B0%9C%EB%B0%9C/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EA%B0%9C%EB%B0%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>깃</title>
+      <link>https://wotjd.github.io/tags/%EA%B9%83/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EA%B9%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>깃허브</title>
+      <link>https://wotjd.github.io/tags/%EA%B9%83%ED%97%88%EB%B8%8C/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EA%B9%83%ED%97%88%EB%B8%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>사용법</title>
+      <link>https://wotjd.github.io/tags/%EC%82%AC%EC%9A%A9%EB%B2%95/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EC%82%AC%EC%9A%A9%EB%B2%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>팁</title>
+      <link>https://wotjd.github.io/tags/%ED%8C%81/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%ED%8C%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://wotjd.github.io/tags/blog/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://wotjd.github.io/tags/blogging/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://wotjd.github.io/tags/github-pages/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://wotjd.github.io/tags/hugo/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travis</title>
+      <link>https://wotjd.github.io/tags/travis/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/travis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>블로그</title>
+      <link>https://wotjd.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>빌드 자동화</title>
+      <link>https://wotjd.github.io/tags/%EB%B9%8C%EB%93%9C-%EC%9E%90%EB%8F%99%ED%99%94/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EB%B9%8C%EB%93%9C-%EC%9E%90%EB%8F%99%ED%99%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>휴고</title>
+      <link>https://wotjd.github.io/tags/%ED%9C%B4%EA%B3%A0/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%ED%9C%B4%EA%B3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quit App</title>
+      <link>https://wotjd.github.io/tags/quit-app/</link>
+      <pubDate>Tue, 04 Jun 2019 15:23:03 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/quit-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIKit</title>
+      <link>https://wotjd.github.io/tags/uikit/</link>
+      <pubDate>Tue, 04 Jun 2019 15:23:03 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/uikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>앱 종료</title>
+      <link>https://wotjd.github.io/tags/%EC%95%B1-%EC%A2%85%EB%A3%8C/</link>
+      <pubDate>Tue, 04 Jun 2019 15:23:03 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EC%95%B1-%EC%A2%85%EB%A3%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag1</title>
+      <link>https://wotjd.github.io/tags/tag1/</link>
+      <pubDate>Mon, 03 Jun 2019 18:55:13 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://wotjd.github.io/tags/tag2/</link>
+      <pubDate>Mon, 03 Jun 2019 18:55:13 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://wotjd.github.io/tags/json/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quicktype</title>
+      <link>https://wotjd.github.io/tags/quicktype/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/quicktype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://wotjd.github.io/tags/tools/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utils</title>
+      <link>https://wotjd.github.io/tags/utils/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/utils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finder</title>
+      <link>https://wotjd.github.io/tags/finder/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/finder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden File</title>
+      <link>https://wotjd.github.io/tags/hidden-file/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/hidden-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://wotjd.github.io/tags/mac/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcut</title>
+      <link>https://wotjd.github.io/tags/shortcut/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/shortcut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단축키</title>
+      <link>https://wotjd.github.io/tags/%EB%8B%A8%EC%B6%95%ED%82%A4/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EB%8B%A8%EC%B6%95%ED%82%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>맥</title>
+      <link>https://wotjd.github.io/tags/%EB%A7%A5/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EB%A7%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>숨긴 파일</title>
+      <link>https://wotjd.github.io/tags/%EC%88%A8%EA%B8%B4-%ED%8C%8C%EC%9D%BC/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EC%88%A8%EA%B8%B4-%ED%8C%8C%EC%9D%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>파인더</title>
+      <link>https://wotjd.github.io/tags/%ED%8C%8C%EC%9D%B8%EB%8D%94/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%ED%8C%8C%EC%9D%B8%EB%8D%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSG</title>
+      <link>https://wotjd.github.io/tags/ssg/</link>
+      <pubDate>Fri, 31 May 2019 18:38:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/ssg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://wotjd.github.io/tags/static-site-generator/</link>
+      <pubDate>Fri, 31 May 2019 18:38:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정적 사이트 생성기</title>
+      <link>https://wotjd.github.io/tags/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/</link>
+      <pubDate>Fri, 31 May 2019 18:38:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customizing</title>
+      <link>https://wotjd.github.io/tags/customizing/</link>
+      <pubDate>Fri, 31 May 2019 17:00:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/customizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://wotjd.github.io/tags/theme/</link>
+      <pubDate>Fri, 31 May 2019 17:00:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tranquilpeak</title>
+      <link>https://wotjd.github.io/tags/tranquilpeak/</link>
+      <pubDate>Fri, 31 May 2019 17:00:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>커스터마이징</title>
+      <link>https://wotjd.github.io/tags/%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95/</link>
+      <pubDate>Fri, 31 May 2019 17:00:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>테마</title>
+      <link>https://wotjd.github.io/tags/%ED%85%8C%EB%A7%88/</link>
+      <pubDate>Fri, 31 May 2019 17:00:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%ED%85%8C%EB%A7%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DI</title>
+      <link>https://wotjd.github.io/tags/di/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/di/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIP</title>
+      <link>https://wotjd.github.io/tags/dip/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/dip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoC</title>
+      <link>https://wotjd.github.io/tags/ioc/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/ioc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoC Container</title>
+      <link>https://wotjd.github.io/tags/ioc-container/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/ioc-container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의존성 주입</title>
+      <link>https://wotjd.github.io/tags/%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/tags/%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

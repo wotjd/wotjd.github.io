@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travis on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/tags/travis/</link>
+    <description>Recent content in Travis on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 04 Jun 2019 16:34:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/tags/travis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 5. Travis CI 연동</title>
+      <link>https://wotjd.github.io/2019/06/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-5.-travis-ci-%EC%97%B0%EB%8F%99/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/06/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-5.-travis-ci-%EC%97%B0%EB%8F%99/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo로 Github Pages에 블로그 호스팅하기
+Git에 대한 충분한 지식이 있다는 전제하에 적은 문서이다. 
+Travis CI 연동 Travis CI는 지속적 통합(Continuous Integration, CI)을 위한 빌드, 테스트 등을 자동화하는 툴이다.
+여기서는 간단하게 컨텐츠 관리 repo 를 커밋했을 때 빌드 후 호스팅 될 repo 에 deploy 하도록 구성한다.
+Travis CI 설정 Travis 에 로그인하여 Account Setting 의 Legacy Services Integration 에서</description>
+    </item>
+    
+  </channel>
+</rss>

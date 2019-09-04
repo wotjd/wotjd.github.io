@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>정적 사이트 생성기 on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/tags/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/</link>
+    <description>Recent content in 정적 사이트 생성기 on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 31 May 2019 18:38:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/tags/%EC%A0%95%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%83%9D%EC%84%B1%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 4. Repository 관리 및 Github Pages 호스팅</title>
+      <link>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-4.-repository-%EA%B4%80%EB%A6%AC-%EB%B0%8F-github-pages-%ED%98%B8%EC%8A%A4%ED%8C%85/</link>
+      <pubDate>Fri, 31 May 2019 18:38:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-4.-repository-%EA%B4%80%EB%A6%AC-%EB%B0%8F-github-pages-%ED%98%B8%EC%8A%A4%ED%8C%85/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo로 Github Pages에 블로그 호스팅하기
+Git에 대한 충분한 지식이 있다는 전제하에 적은 문서이다. 
+Repository 관리 및 Github Pages 호스팅 Repository 관리 (SubRepo 지정) 모든 리소스를 하나의 Repository로도 관리가 가능하겠지만
+보통은 컨텐츠 Repository, 호스팅 될 Repository로 나눈다.
+나는 후에 Hugo Build를 자동화하기에도 용이할 것이라고 판단하여 두 개의 저장소를 생성했다.
+컨텐츠 Repository에는 Hugo 관련 파일 + 컨텐츠 파일들이 들어있고,
+호스팅 될 Repository에는 hugo 빌드 결과물만 존재한다.</description>
+    </item>
+    
+  </channel>
+</rss>

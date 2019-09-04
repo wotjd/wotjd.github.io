@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/tags/blogging/</link>
+    <description>Recent content in Blogging on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 04 Jun 2019 16:34:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 5. Travis CI 연동</title>
+      <link>https://wotjd.github.io/2019/06/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-5.-travis-ci-%EC%97%B0%EB%8F%99/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/06/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-5.-travis-ci-%EC%97%B0%EB%8F%99/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo로 Github Pages에 블로그 호스팅하기
+Git에 대한 충분한 지식이 있다는 전제하에 적은 문서이다. 
+Travis CI 연동 Travis CI는 지속적 통합(Continuous Integration, CI)을 위한 빌드, 테스트 등을 자동화하는 툴이다.
+여기서는 간단하게 컨텐츠 관리 repo 를 커밋했을 때 빌드 후 호스팅 될 repo 에 deploy 하도록 구성한다.
+Travis CI 설정 Travis 에 로그인하여 Account Setting 의 Legacy Services Integration 에서</description>
+    </item>
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 4. Repository 관리 및 Github Pages 호스팅</title>
+      <link>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-4.-repository-%EA%B4%80%EB%A6%AC-%EB%B0%8F-github-pages-%ED%98%B8%EC%8A%A4%ED%8C%85/</link>
+      <pubDate>Fri, 31 May 2019 18:38:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-4.-repository-%EA%B4%80%EB%A6%AC-%EB%B0%8F-github-pages-%ED%98%B8%EC%8A%A4%ED%8C%85/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo로 Github Pages에 블로그 호스팅하기
+Git에 대한 충분한 지식이 있다는 전제하에 적은 문서이다. 
+Repository 관리 및 Github Pages 호스팅 Repository 관리 (SubRepo 지정) 모든 리소스를 하나의 Repository로도 관리가 가능하겠지만
+보통은 컨텐츠 Repository, 호스팅 될 Repository로 나눈다.
+나는 후에 Hugo Build를 자동화하기에도 용이할 것이라고 판단하여 두 개의 저장소를 생성했다.
+컨텐츠 Repository에는 Hugo 관련 파일 + 컨텐츠 파일들이 들어있고,
+호스팅 될 Repository에는 hugo 빌드 결과물만 존재한다.</description>
+    </item>
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 3. 테마 선정 및 커스터마이징</title>
+      <link>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-3.-%ED%85%8C%EB%A7%88-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95/</link>
+      <pubDate>Fri, 31 May 2019 17:00:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-3.-%ED%85%8C%EB%A7%88-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo 로 Github Pages 에 블로그 호스팅하기
+Hugo 는 포스팅 하는 당시의 최신버전을 사용한다. (v0.55.6/extended darwin/amd64)
+Tranquilpeak 는 c7d2fde 커밋을 포크하여 커스터마이징 하였다. (0.4.4-BETA ~) 
+들어가기에 앞서 가장 많은 삽질을 한 구간이다.
+특히 오픈소스 테마에서 문서화 되지 않은 부분들에 대한 수정과
+구글링을 해도 해법이 나오지 않는 특별한 에러는 날 미치게하였다.
+결과적으로는 어느정도 불편하지 않을 정도로만 수정하도록 타협하여 적용했다.</description>
+    </item>
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 2. Hugo 시작하기</title>
+      <link>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-2.-hugo-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
+      <pubDate>Fri, 31 May 2019 16:48:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-2.-hugo-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo 로 Github Pages 에 블로그 호스팅하기
+Hugo 는 포스팅 하는 당시의 최신버전을 사용한다. (v0.55.6/extended darwin/amd64) 
+Hugo 시작하기 왜 Hugo 인가요 Jekyll 빌드 환경 구성에 필요한 ruby 를 안써도 된다고 카더라. 제대로 쓴적도 없지만 ruby의 환경구성 난이도가 세계 라는건 알고있지. Jekyll 은 가볍게 포기
+그리고 빠르대요. 삽질한 시간을 생각하면 또이ㄸㅗㅇ&amp;hellip;
+Hugo 가 특히 사용하기 편하다라는 느낌은 못받았다.
+환경 구성, 테마 선택하고 입히는 것도 사실 번거로웠지만</description>
+    </item>
+    
+    <item>
+      <title>[Blogging] Hugo 로 github 블로그 시작하기 - 1. 블로그 서비스/프레임워크 선택</title>
+      <link>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-1.-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%84%A0%ED%83%9D/</link>
+      <pubDate>Fri, 31 May 2019 16:38:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/05/blogging-hugo-%EB%A1%9C-github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-1.-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%9C%EB%B9%84%EC%8A%A4/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%84%A0%ED%83%9D/</guid>
+      <description>Hosting Blog via Github Pages with Hugo on Mac, 맥에서 Hugo 로 Github Pages 에 블로그 호스팅하기 
+개요 뻘글 때로는 예상치 못한 곳에서 다른 분야의 지식을 사용하는 경우가 있다.
+이번 블로그를 구성하고 준비하면서 가장 많이 느낀게 &amp;lsquo;이거 전에 안해봤으면 어쩔뻔했나..&amp;rsquo; 일 정도로
+뜬금없는 포인트에서 오류가 생겼고, 이전의 경험을 이용해 잠깐의 구글링만으로 상황을 모면한 경우가 많았다.
+(뽀록을 보기좋게 풀어 설명한 것임)
+삽질은 많이 했어도 잘 해결하여 이 블로그도 만들고 이 글을 적고 있으니,</description>
+    </item>
+    
+  </channel>
+</rss>

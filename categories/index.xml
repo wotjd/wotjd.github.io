@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/categories/</link>
+    <description>Recent content in Categories on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 04 Sep 2019 18:15:43 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tips</title>
+      <link>https://wotjd.github.io/categories/tips/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://wotjd.github.io/categories/ios/</link>
+      <pubDate>Wed, 04 Sep 2019 18:15:43 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://wotjd.github.io/categories/links/</link>
+      <pubDate>Mon, 10 Jun 2019 16:51:09 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://wotjd.github.io/categories/development/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://wotjd.github.io/categories/git/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://wotjd.github.io/categories/blogging/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>블로그 시작하기</title>
+      <link>https://wotjd.github.io/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</link>
+      <pubDate>Tue, 04 Jun 2019 16:34:47 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category</title>
+      <link>https://wotjd.github.io/categories/category/</link>
+      <pubDate>Mon, 03 Jun 2019 18:55:13 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subcategory</title>
+      <link>https://wotjd.github.io/categories/subcategory/</link>
+      <pubDate>Mon, 03 Jun 2019 18:55:13 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site</title>
+      <link>https://wotjd.github.io/categories/site/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Useful</title>
+      <link>https://wotjd.github.io/categories/useful/</link>
+      <pubDate>Mon, 03 Jun 2019 11:40:16 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/useful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://wotjd.github.io/categories/mac/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>팁, 단축키</title>
+      <link>https://wotjd.github.io/categories/%ED%8C%81-%EB%8B%A8%EC%B6%95%ED%82%A4/</link>
+      <pubDate>Sun, 02 Jun 2019 16:49:04 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/%ED%8C%81-%EB%8B%A8%EC%B6%95%ED%82%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://wotjd.github.io/categories/architecture/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DI/IoC</title>
+      <link>https://wotjd.github.io/categories/di/ioc/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wotjd.github.io/categories/di/ioc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

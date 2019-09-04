@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on 엉망진창 Swift 코딩</title>
+    <link>https://wotjd.github.io/categories/development/</link>
+    <description>Recent content in Development on 엉망진창 Swift 코딩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 07 Jun 2019 10:14:19 +0900</lastBuildDate>
+    
+	<atom:link href="https://wotjd.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Dev] Git 원리 알아보기</title>
+      <link>https://wotjd.github.io/2019/06/dev-git-%EC%9B%90%EB%A6%AC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</link>
+      <pubDate>Fri, 07 Jun 2019 10:14:19 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/06/dev-git-%EC%9B%90%EB%A6%AC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/</guid>
+      <description>들어가기에 앞서 Git 은 이제 개발자로써 모르면 안될 중요한 기술이 되었다.
+단순히 개인 프로젝트의 버전 관리를 넘어
+다른 누군가와 협업을 할 때 Git 의 진가는 드러나며,
+인터넷을 통해 원격으로 프로젝트를 관리하고 다른 사람의 프로젝트에 기여할 수 있게끔 해주는
+Github 가 시작되면서부터는 오픈소스 산업 전반에 큰 영향을 끼치고 있다.
+뭐가 어쨋든 이런 판이 짜여져 있는 상태에서
+나는 남들이 써야한다 하면 쓰고, 필요할 때마다 모르는 걸 찾아보는 식으로 차츰 알아갔다.</description>
+    </item>
+    
+    <item>
+      <title>[Dev] Git 그냥 일단 시작해보기 (GitHub)</title>
+      <link>https://wotjd.github.io/2019/06/dev-git-%EA%B7%B8%EB%83%A5-%EC%9D%BC%EB%8B%A8-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-github/</link>
+      <pubDate>Wed, 05 Jun 2019 17:15:54 +0900</pubDate>
+      
+      <guid>https://wotjd.github.io/2019/06/dev-git-%EA%B7%B8%EB%83%A5-%EC%9D%BC%EB%8B%A8-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-github/</guid>
+      <description>&lt;p&gt;본 글에서는 Mac 에서 Git 을 설치 및 사용하는 방법을 설명한다.&lt;br /&gt;
+원격 저장소로는 Github 를 사용한다.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
